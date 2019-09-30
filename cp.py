@@ -1,3 +1,4 @@
 import os; import sys
-sy=os.system
+sh=os.system
+sh("pip3 install trepan3k")
 print("Rocky's coderpad setup added")
